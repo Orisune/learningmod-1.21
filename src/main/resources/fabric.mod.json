@@ -3,9 +3,9 @@
 	"id": "learningmod",
 	"version": "${version}",
 	"name": "LearningMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Just Learning!",
 	"authors": [
-		"Me!"
+		"Kayruu!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
