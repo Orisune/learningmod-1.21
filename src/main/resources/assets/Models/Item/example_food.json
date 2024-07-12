@@ -1,0 +1,6 @@
+{
+  "parents": "minecraft:item/generated",
+  "textures": {
+    "layer0": "learningmod:item/example_food"
+  }
+}
