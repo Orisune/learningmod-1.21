@@ -1,5 +1,5 @@
 {
-  "parents": "minecraft:item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "learningmod:item/example_item"
   }
